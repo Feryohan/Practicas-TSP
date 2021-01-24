@@ -1,0 +1,7 @@
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Practicas TSP\Practica 1\ProgramaHilos\bin\Debug\ProgramaHilos.exe.config
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Practicas TSP\Practica 1\ProgramaHilos\bin\Debug\ProgramaHilos.exe
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Practicas TSP\Practica 1\ProgramaHilos\bin\Debug\ProgramaHilos.pdb
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Practicas TSP\Practica 1\ProgramaHilos\obj\Debug\ProgramaHilos.csprojAssemblyReference.cache
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Practicas TSP\Practica 1\ProgramaHilos\obj\Debug\ProgramaHilos.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Practicas TSP\Practica 1\ProgramaHilos\obj\Debug\ProgramaHilos.exe
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Practicas TSP\Practica 1\ProgramaHilos\obj\Debug\ProgramaHilos.pdb
